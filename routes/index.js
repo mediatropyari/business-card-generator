@@ -1,6 +1,6 @@
 
 /* GET home page. */
-const Joi = require('Joi');
+const Joi = require('joi');
 module.exports.index = (req, res) => {
   run().catch(error => console.log(error.stack));
   async function run() {
