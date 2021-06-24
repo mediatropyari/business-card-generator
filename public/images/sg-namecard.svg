@@ -55,7 +55,7 @@
     </text>
     <rect class="cls-21" x="396" y="33.86" width="255.12" height="153.07"/>
     <rect class="cls-1" y="-454.95" width="841.89" height="1004.7"/>
-    <text class="cls-22 user-phone" transform="translate(538.54 114.51) scale(1 1.11)">+65 9423 7761</text>
+    <text class="cls-22 user-phone" transform="translate(538.54 114.51) scale(1 1.11)"></text>
     <text class="cls-23" transform="translate(538.54 125.01) scale(1 1.11)">
         <tspan class="cls-24">+</tspan>
         <tspan class="cls-25" x="3.69" y="0">6</tspan>
@@ -69,12 +69,17 @@
         <tspan class="cls-29" x="47.61" y="0" xml:space="preserve"> (SG)</tspan>
 
     </text>
-    <text class="cls-22 user-email" transform="translate(538.54 145.35) scale(1 1.11)">ari.joki@mediatropy.com</text>
+    <text class="cls-22 user-email" transform="translate(538.54 145.35) scale(1 1.11)"></text>
     <text class="cls-30 address-1" transform="translate(538.54 155.5) scale(1 1.11)">29A Cuppage Road #02-00</text>
     <text class="cls-30 address-2" transform="translate(538.54 163.3) scale(1 1.11)">Cuppage Terrace, 229456, Singapore</text>
-    <text class="cls-22 user-skype" transform="translate(538.54 174.18) scale(1 1.11)">ari.joki</text>
-    <text class="cls-31 user-name" transform="translate(411.08 117.22)">Ari Joki</text>
-    <text class="cls-32 user-title" transform="translate(411.08 130.26)">Senior Developer</text>
+    <text class="cls-22 user-skype" transform="translate(538.54 174.18) scale(1 1.11)"></text>
+    <text class="" transform="translate(411.08 117.22)">
+        <tspan class="cls-31 user-name1" x="0" dy="1em"></tspan>
+        <tspan class="cls-31 user-name2" x="0" dy="1em"></tspan>
+        <tspan class="cls-32 user-title1" x="0" dy="1.3em"></tspan>
+        <tspan class="cls-32 user-title2" x="0" dy="1em"></tspan>
+    </text>
+
     <g class="cls-33">
         <polygon class="cls-34" points="532.03 110.55 530.54 113.14 533.52 113.13 532.03 110.55"/>
         <polygon class="cls-34" points="532.03 121.55 530.54 124.14 533.52 124.13 532.03 121.55"/>
